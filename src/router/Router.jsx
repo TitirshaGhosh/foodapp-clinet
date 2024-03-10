@@ -81,7 +81,7 @@ const router = createBrowserRouter([
         path: "update-profile/:id",
         element: <UpdateUser/>,
         loader: ({ params }) =>
-          fetch(`https://foodapp-server-5wwq.onrender.com//${params.id}`),
+          fetch(`https://foodapp-server-5wwq.onrender.com/${params.id}`),
       },
       {
         path: "add-menu",
@@ -95,7 +95,7 @@ const router = createBrowserRouter([
         path: "update-menu/:id",
         element: <UpdateMenu/>,
         loader: ({ params }) =>
-          fetch(`https://foodapp-server-5wwq.onrender.com//menu/${params.id}`),
+          fetch(`https://foodapp-server-5wwq.onrender.com/menu/${params.id}`),
       },
      
     ],
