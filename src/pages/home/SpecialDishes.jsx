@@ -39,7 +39,7 @@ const SpecialDishes = () => {
 
   useEffect(() => {
     // fetch("/menu.json")
-    fetch("http://localhost:6001/menu")
+    fetch("https://foodapp-server-5wwq.onrender.com//menu")
       .then((res) => res.json())
       .then((data) => {
         const specials = data.filter((item) => item.category === "popular");
