@@ -38,9 +38,10 @@ const Navbar = () => {
         </a>
       </li> 
       <li>
-        <a href="/menu" >
+        {/* <a href="/menu" >
         Menu
-        </a>
+        </a> */}
+        <Link to="/menu" >menu</Link>
       </li>
       {/* <li tabIndex={0}> */}
         {/* <details>
