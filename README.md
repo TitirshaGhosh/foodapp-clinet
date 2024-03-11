@@ -1,6 +1,11 @@
+# Foodie 
+ 
+Welcome to Foodie, your ultimate companion for ordering delicious meals on-the-go! This document will guide you through the structure and usage of our food app project, designed to make your dining experience delightful and convenient & built this using Reactjs, Node.js, Express.js and MongoDB.
 
 ## Structure
+
 HOME
+
 ![HOME](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/1.png)
 
 
@@ -15,6 +20,7 @@ HOME
 ![OUR DETAILS](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/6.png)
 
 MENU
+
 ![MENU](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/7.png)
 
 ![Different Catagories](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/8.png)
@@ -28,11 +34,13 @@ MENU
 ![Multi Page](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/9.png)
 
 CART
+
  ![CART](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/11.png)
 
 ![Checkout Page](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/12.png)
 
 SIDEBAR
+
  ![SIDEBAR](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/c.png)
 
 ![Profile](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/13.png)
@@ -40,6 +48,7 @@ SIDEBAR
 ![Order](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/14.png)
 
 Dashboard
+
 ![Add Menu](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/15.png)
 
 ![Manage Items](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/16.png)
