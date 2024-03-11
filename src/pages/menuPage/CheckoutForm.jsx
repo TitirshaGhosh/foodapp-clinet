@@ -240,7 +240,7 @@ const CheckoutForm = ({ price, cart }) => {
       {/* left side */}
       <div className="md:w-1/2 w-full space-y-3">
         <h4 className="text-lg text-green font-semibold">order Summary</h4>
-        <p className="text-black">Total Price: ${price}</p>
+        <p className="text-black">Total Price: ₹{price}</p>
         <p className="text-black">Number of Items: {cart.length}</p>
       </div>
 
