@@ -1,7 +1,7 @@
 
 ## Structure
 
-1. ![HOME](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/1.png)
+![HOME](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/1.png)
 
 
 ![Popular Catagories](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/2.png)
@@ -14,7 +14,7 @@
 
 ![OUR DETAILS](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/6.png)
 
-2.  ![MENU](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/7.png)
+![MENU](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/7.png)
 
 ![Different Catagories](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/8.png)
 
@@ -26,11 +26,11 @@
 
 ![Multi Page](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/9.png)
 
-3.  ![CART](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/11.png)
+ ![CART](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/11.png)
 
 ![Checkout Page](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/12.png)
 
-4.  ![SIDEBAR](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/c.png)
+ ![SIDEBAR](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/c.png)
 
 ![Profile](https://github.com/TitirshaGhosh/foodapp-clinet/blob/main/public/images/13.png)
 
