@@ -185,7 +185,7 @@ const CartPage = () => {
                           +
                         </button>
                       </td>
-                      <td>${calculateTotalPrice(item).toFixed(2)}</td>
+                      <td>₹{calculateTotalPrice(item).toFixed(2)}</td>
                       <td>
                         <button
                           className="btn btn-sm border-none text-red bg-transparent"
